@@ -1,0 +1,8 @@
+nome_completo='thiago cassiano da silva lopes'
+print(nome_completo)
+print(type(nome_completo))
+idade= 46
+print(idade)
+print(type(idade))
+is_maior_de_idade=True
+print(is_maior_de_idade, type(is_maior_de_idade))

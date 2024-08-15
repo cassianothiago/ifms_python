@@ -6,3 +6,14 @@ print(idade)
 print(type(idade))
 is_maior_de_idade=True
 print(is_maior_de_idade, type(is_maior_de_idade))
+altura=1.90
+print(altura,type(altura))
+
+nome=input('informe nome: ')
+print(nome)
+idade=int(input('informe a idade: '))
+print(idade)
+
+lista=[8,9,5]
+print(lista)
+print(lista[0])
